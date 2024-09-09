@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2013 - June 2018:** Central South University (PhD, supervised by [Prof. Guojun Wang](https://trust.gzhu.edu.cn/faculty/~csgjwang/index.html))
 - **Sep 2010 - June 2012:** Northestern University (MS, supervised by [Prof. Xianwen Gao](https://www.csauthors.net/xianwen-gao/))
-- **Sep 2006 - June 2010:** Northestern University (BS)
+- **Sep 2006 - June 2010:** Northestern University at Qinhuangdao (BS)
 
 ---
 
