@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://daiyl.github.io//dai.jpg" class="floatpic" width="360" height="480">
+<img src="dai.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yinglong Dai (David, 戴颖龙)**.
 
