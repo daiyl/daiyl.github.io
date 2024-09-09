@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Awards
 ---
 
-> Lastest Update: September 9, 2024 &nbsp; [中文版本 (Chinese Version)](../file/projects-zh/)
+> Lastest Update: September 9, 2024 &nbsp; 
 
 
 ## Projects

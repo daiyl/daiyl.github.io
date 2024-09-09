@@ -4,7 +4,7 @@ permalink: /file/projects-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/05/20 &nbsp; [English Version (英文)](../../projects/)
+> 更新时间：2024/09/09 &nbsp; [English Version (英文)](../../projects/)
 
 ## 项目
 
