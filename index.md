@@ -8,16 +8,16 @@ layout: page
 
 Here is **Yinglong Dai (David, 戴颖龙)**.
 
-Yinglong Dai received B.S. and M.S. degrees in automation and control theory & control engineering from Northeastern University, China, in 2010 and 2012, respectively. He received a Ph.D. degree in computer science from Central South University, China, in 2018. He is an Associate Professor with College of Information Science and Engineering, Hunan Normal University, China. From 2020 to 2023, he was a postdoctoral research associate with College of Sciences at National University of Defense Technology, China. From 2012 to 2013, he was an Electronic Engineer with the Research Institute of Intelligent Engineering, SANY Heavy Industry Co., Ltd., China. His research interests include multimodal deep learning, interpretable deep learning, deep reinforcement learning, and healthcare process.
+Yinglong Dai received B.S. and M.S. degrees in automation and control theory & control engineering from Northeastern University, China, in 2010 and 2012, respectively. He received a Ph.D. degree in computer science from Central South University, China, in 2018, supervised by [Prof. Guojun Wang](https://trust.gzhu.edu.cn/faculty/~csgjwang/index.html). He is an Associate Professor with College of Information Science and Engineering, Hunan Normal University, China. From 2020 to 2023, he was a postdoctoral research associate with College of Sciences at National University of Defense Technology, China. From 2012 to 2013, he was an Electronic Engineer with the Research Institute of Intelligent Engineering, SANY Heavy Industry Co., Ltd., China. His research interests include multimodal deep learning, interpretable deep learning, deep reinforcement learning, and healthcare process.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *daiyl[at]hunnu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *daiyl[at]hunnu[dot]edu[dot]cn*.
 
-## Academic Background
+<!-- ## Academic Background
 
 - **Sep 2013 - June 2018:** Central South University (PhD, supervised by [Prof. Guojun Wang](https://trust.gzhu.edu.cn/faculty/~csgjwang/index.html))
 - **Sep 2010 - June 2012:** Northestern University (MS, supervised by [Prof. Xianwen Gao](https://www.csauthors.net/xianwen-gao/))
 - **Sep 2006 - June 2010:** Northestern University at Qinhuangdao (BS)
-
+-->
 ---
 
 ## Research Interests
