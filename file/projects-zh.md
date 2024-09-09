@@ -4,9 +4,10 @@ permalink: /file/projects-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/05/20 &nbsp; [English Version (英文)](../projects/)
+> 更新时间：2024/05/20 &nbsp; [English Version (英文)](/projects/)
 
 ## 项目
+
 
 [1] 国家自然科学基金, 青年项目, 62306110, 基于信息论的健康监护过程智能化方法研究, 2024/01-2026/12, 主持
 
