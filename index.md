@@ -35,6 +35,3 @@ My current research focuses on practical problems that artificial intelligence f
 
 - **June 2024**：...!
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><br></p>&mdash; </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
