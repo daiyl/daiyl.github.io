@@ -35,5 +35,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **June 2024**：...!
+- **September 2024**：Open the personal homepage! Thanks to [Hanlin Cai's](https://caihanlin.com/) template.
 
