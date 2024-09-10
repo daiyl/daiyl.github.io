@@ -12,9 +12,7 @@ Yinglong Dai received B.S. and M.S. degrees in automation and control theory & c
 
 He is an Associate Professor with College of Information Science and Engineering, Hunan Normal University, China. From 2012 to 2013, he was an Electronic Engineer with the Research Institute of Intelligent Engineering, SANY Heavy Industry Co., Ltd., China. 
 
-His research interests include multimodal deep learning, interpretable deep learning, hierarchical deep reinforcement learning, and intelligent healthcare process.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *daiyl[at]hunnu[dot]edu[dot]cn*.
+His research interests include multimodal deep learning, interpretable deep learning, hierarchical deep reinforcement learning, and intelligent healthcare process. If you are interested in any aspect, please email at - *daiyl[at]hunnu[dot]edu[dot]cn*.
 
 <!-- ## Academic Background
 
