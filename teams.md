@@ -8,14 +8,14 @@ title: Teams
 
 - **@2023:** Zhi Yi
 - **@2024:** Wenjie Li, Zhongmin Wu
-- **@2025:** [Join us!](<daiyl@hunnu.edu.cn>)
+- **@2025:** [Join us!](mailto:daiyl@hunnu.edu.cn)
 
 ---
 
 ## Undergraduates
 
 - **@2023:** Qi Lv
-- **@2024:** [Join us!](<daiyl@hunnu.edu.cn>)
+- **@2024:** [Join us!](mailto:daiyl@hunnu.edu.cn)
 
 
 ## Team News
@@ -30,7 +30,7 @@ title: Teams
 > Our group website: [TBD](https://daiyl.github.io/)
 
 <div>
-<img src="https://caihanlin.com/images/teams/TBD.webp">
+<img src="../images/teams/TBD.webp">
 </div>
 <br>
 
