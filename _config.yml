@@ -35,11 +35,11 @@ links:
     url: /publications/
   - title: Projects
     url: /projects/  
-  - title: Awards
-    url: /awards/
   - title: Teams
     url: /teams/
-
+  # - title: Awards
+    # url: /awards/
+    
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
