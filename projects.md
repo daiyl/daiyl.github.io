@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: Awards
+title: projects
 ---
 
 > Lastest Update: September 9, 2024 &nbsp; 
