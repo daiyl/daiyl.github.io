@@ -9,19 +9,20 @@ title: Teams
 
 - **@2023:** Zhi Yi
 - **@2024:** Wenjie Li, Zhongmin Wu
-- **@2025:** [Join us!](mailto:daiyl@hunnu.edu.cn)
+- **@2025:** Yang Liu, Zhe Feng
+- **[Join us!](mailto:daiyl@hunnu.edu.cn)
 
 ---
 
 ## Undergraduates
 
 - **@2023:** Qi Lv
-- **@2024:** [Join us!](mailto:daiyl@hunnu.edu.cn)
+- **[Join us!](mailto:daiyl@hunnu.edu.cn)
 
 
 ## Team News
 
-- **December 2024：**
+- **December 2025：**
 
 ---
 
