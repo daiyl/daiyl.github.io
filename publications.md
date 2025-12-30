@@ -8,7 +8,7 @@ title: Publications
 >
 > (†: equal contribution, ~: corresponding author)
 
-## Selected Published Papers (More papers in [ResearchGate](https://www.researchgate.net/profile/Yinglong-Dai-2))
+## Selected Published Papers (More papers in [<font color=Green>ResearchGate</font>](https://www.researchgate.net/profile/Yinglong-Dai-2))
 
 - [Analysis of Multimodal Data Fusion from an Information Theory Perspective](https://doi.org/10.1016/j.ins.2022.12.014)<br>**Yinglong Dai**, Zheng Yan, Jiangchang Cheng, Xiaojun Duan, and Guojun Wang~<br> Information Sciences, April 2023, 623: 164-183. 
 - [Interpreting a deep reinforcement learning model with conceptual embedding and performance analysis](https://doi.org/10.1007/s10489-022-03788-7)<br>**Yinglong Dai**, Haibin Ouyang, Hong Zheng, Han Long, and Xiaojun Duan~<br> Applied Intelligence, March 2023, 53: 6936–6952. 
