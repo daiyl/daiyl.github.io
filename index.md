@@ -10,7 +10,7 @@ Here is **Yinglong Dai (David, 戴颖龙)**.
 
 Yinglong Dai received B.S. and M.S. degrees in automation and control theory & control engineering from Northeastern University, China, in 2010 and 2012, respectively. He received a Ph.D. degree in computer science from Central South University, China, in 2018, supervised by [Prof. Guojun Wang](https://trust.gzhu.edu.cn/faculty/~csgjwang/index.html). 
 
-He is an Associate Professor with College of Information Science and Engineering, Hunan Normal University, China. From 2012 to 2013, he was an Electronic Engineer with the Research Institute of Intelligent Engineering, SANY Heavy Industry Co., Ltd., China. 
+He is an Associate Professor with College of Information Science and Engineering, Hunan Normal University, China. From 2012 to 2013, he was an Electronic Engineer with the Research Institute of Intelligent Engineering, SANY Heavy Industry Co., Ltd., China. From 2024 to 2025, he was a Visiting Scholar with the University of Aizu, Japan.
 
 His research interests include multimodal deep learning, interpretable deep learning, hierarchical deep reinforcement learning, and intelligent healthcare process. If you are interested in any aspect, please email to [this address](mailto:daiyl@hunnu.edu.cn).
 
