@@ -35,7 +35,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **January 2026**：I have been invited as a Guest Editor for a Special Issue of Mathematics (MDPI), titled [Algorithmic Advances in Reinforcement Learning: Theory and Applications](https://www.mdpi.com/journal/mathematics/special_issues/IE4RFO4TGQ). We welcome high-quality submissions on novel theories, algorithms, and applications of reinforcement learning. [https://www.mdpi.com/si/258233](https://www.mdpi.com/si/258233)
+- **January 2026**：I have been invited as a Guest Editor for a Special Issue of Mathematics, titled [Algorithmic Advances in Reinforcement Learning: Theory and Applications](https://www.mdpi.com/journal/mathematics/special_issues/IE4RFO4TGQ). We welcome high-quality submissions on novel theories, algorithms, and applications of reinforcement learning. [https://www.mdpi.com/si/258233](https://www.mdpi.com/si/258233)
 
 
 - **September 2024**：Open the personal homepage! Thanks to [Hanlin Cai's](https://caihanlin.com/) template.
