@@ -32,7 +32,19 @@ title: Teams
 > Our group website: [TBD](https://daiyl.github.io/)
 
 <div>
-<img src="../images/teams/TBD.webp">
+<img src="../images/teams/tgy1.jpg">
+</div>
+
+<div>
+<img src="../images/teams/tgy2.jpg">
+</div>
+
+<div>
+<img src="../images/teams/tgy3.jpg">
+</div>
+
+<div>
+<img src="../images/teams/tgy4.mp4">
 </div>
 <br>
 
