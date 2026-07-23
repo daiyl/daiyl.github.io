@@ -21,12 +21,13 @@ title: Teams
 
 ---
 
-> ## Team News
-> 
-> - **December 2026：**
-> 
-> ---
+<!-- 
+## Team News
 
+- **December 2026：**
+
+--- 
+-->
 
 ## Some Group Photos
 
@@ -45,7 +46,7 @@ title: Teams
 </div>
 
 <div>
-<video width="640" height="360" controls>
+<video controls>
   <source src="../images/teams/2026@tgy3.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
 </video>
