@@ -46,7 +46,7 @@ title: Teams
 
 <div>
 <video width="640" height="360" controls>
-  <source src="../images/teams/2026@tgy3.mp4" type="video/mp4">
+  <source src="../images/teams/2026@tgy4.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
 </video>
 </div>
