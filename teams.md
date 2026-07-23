@@ -19,12 +19,13 @@ title: Teams
 - **@2023:** Qi Lv
 - **[Join us!](mailto:daiyl@hunnu.edu.cn)
 
-
-## Team News
-
-- **December 2025：**
-
 ---
+
+> ## Team News
+> 
+> - **December 2026：**
+> 
+> ---
 
 
 ## Some Group Photos
