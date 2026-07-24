@@ -33,7 +33,7 @@ title: Teams
 
 > Our group website: [TBD](https://daiyl.github.io/)
 
-2026 Team building
+2026
 <div>
 <img src="../images/teams/2026@tgy2.jpg">
 </div>
