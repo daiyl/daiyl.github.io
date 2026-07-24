@@ -33,23 +33,11 @@ title: Teams
 
 > Our group website: [TBD](https://daiyl.github.io/)
 
-<div>
-<img src="../images/teams/2026@tgy1.jpg">
-</div>
-
+2026 Team building
 <div>
 <img src="../images/teams/2026@tgy2.jpg">
 </div>
 
-<div>
-<img src="../images/teams/2026@tgy3.jpg">
-</div>
 
-<div>
-<video width="640" height="360" controls>
-  <source src="../images/teams/2026@tgy4.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。
-</video>
-</div>
 <br>
 
